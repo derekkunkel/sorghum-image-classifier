@@ -40,7 +40,7 @@ Dataset and Sub-Dataset:
 
 
 Running The Model:
-- Opening the folder in PyCharm or VSCode, proceed to open either LeNet_Baseline.py or LeNet_Baseline_Ablation.py, and run it from inside the IDE
+- Opening the folder in PyCharm or VSCode, proceed to open either LeNet_Baseline.py or LeNet_Baseline_Ablation.py, and run it from inside the IDE.
   This will show the loss, accuracy, and precision for both the training and validation sets with each epoch as the model trains, and will also
   show you the MathPlotLib graph of each after all Epochs are complete
 - Alternatively, run the python file of the model you wish to train from the terminal. This will still show the loss, accuracy, and precision,
